@@ -5,8 +5,7 @@
     "username": "IXYTYXI",
     "email": "ixytyxi@outlook.com"
   },
-  "record": {
-    "A": ["118.196.114.88"],
-    "AAAA": []
+  "records": {
+    "A": ["118.196.114.88"]
   }
 }
